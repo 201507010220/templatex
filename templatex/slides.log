@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2020.9.18)  7 OCT 2020 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=latex 2020.9.18)  8 OCT 2020 14:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1697,11 +1697,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 175.
 LaTeX Info: Redefining \pageref on input line 175.
 LaTeX Info: Redefining \nameref on input line 175.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-(./slides.bm) (./slides.bm)
+ (./slides.bm) (./slides.bm)
 \openout3 = `slides.bm'.
 
  (./slides.toc)
@@ -1769,26 +1765,16 @@ LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
 (Font)              scaled to size 11.15991pt on input line 178.
  [2]
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 5.57996pt on input line 188.
 LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
-(Font)              scaled to size 7.43994pt on input line 188.
-
-
-LaTeX Warning: Reference `lastslide' on page 3 undefined on input line 188.
-
-[3]
+(Font)              scaled to size 13.39188pt on input line 188.
+ [3]
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
 (Font)              scaled to size 19.28804pt on input line 193.
 LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
 (Font)              scaled to size 19.28804pt on input line 193.
-
-
-LaTeX Warning: Reference `lastslide' on page 4 undefined on input line 193.
-
-[4]
-
-LaTeX Warning: Reference `lastslide' on page 5 undefined on input line 248.
-
-
+ [4]
 Underfull \hbox (badness 10000) in paragraph at lines 248--248
 
  []
@@ -1798,82 +1784,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 248--248
 
  []
 
-[5]
-
-LaTeX Warning: Reference `lastslide' on page 6 undefined on input line 257.
-
-[6]
-
-LaTeX Warning: Reference `lastslide' on page 7 undefined on input line 297.
-
-[7]
-
-LaTeX Warning: Reference `lastslide' on page 8 undefined on input line 304.
-
-[8]
-
-LaTeX Warning: Reference `lastslide' on page 9 undefined on input line 355.
-
-File: logos/4.eps Graphic file (type eps)
-<logos/4.eps>
+[5] [6] [7] [8]
+File: logos/21.eps Graphic file (type eps)
+ <logos/21.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 355.
 See the caption package documentation for explanation.
 
-File: logos/5.eps Graphic file (type eps)
-<logos/5.eps>
+File: logos/24.eps Graphic file (type eps)
+<logos/24.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 355.
 See the caption package documentation for explanation.
 
 [9]
-
-LaTeX Warning: Reference `lastslide' on page 10 undefined on input line 397.
-
-File: logos/11.eps Graphic file (type eps)
-<logos/11.eps>
+File: logos/4.eps Graphic file (type eps)
+ <logos/4.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 397.
 See the caption package documentation for explanation.
 
-File: logos/12.eps Graphic file (type eps)
-<logos/12.eps>
+File: logos/22.eps Graphic file (type eps)
+<logos/22.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 397.
 See the caption package documentation for explanation.
 
 [10]
-
-LaTeX Warning: Reference `lastslide' on page 11 undefined on input line 439.
-
-File: logos/13.eps Graphic file (type eps)
-<logos/13.eps>
+File: logos/25.eps Graphic file (type eps)
+ <logos/25.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 439.
 See the caption package documentation for explanation.
 
-File: logos/14.eps Graphic file (type eps)
-<logos/14.eps>
+File: logos/26.eps Graphic file (type eps)
+<logos/26.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 439.
 See the caption package documentation for explanation.
 
-[11]
-
-LaTeX Warning: Reference `lastslide' on page 12 undefined on input line 445.
-
-[12]
-
-LaTeX Warning: Reference `lastslide' on page 13 undefined on input line 489.
-
+[11] [12]
 File: logos/7.eps Graphic file (type eps)
-<logos/7.eps>
+ <logos/7.eps>
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 489.
@@ -1900,40 +1858,21 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 489.
 See the caption package documentation for explanation.
 
-[13]
-
-LaTeX Warning: Reference `lastslide' on page 14 undefined on input line 501.
-
-[14]
-
-LaTeX Warning: Reference `lastslide' on page 15 undefined on input line 533.
-
-[15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 535.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 535.
- (./slides.aux
-
-Package pdfbase Warning: Rerun to get internal references right!
-
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 535.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 535.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 535.
+[13] [14] [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 534.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 534.
+ (./slides.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 534.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 534.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 534.
  ) 
 Here is how much of TeX's memory you used:
- 47326 strings out of 480609
- 1027415 string characters out of 5907562
+ 47356 strings out of 480609
+ 1027745 string characters out of 5907562
  1583097 words of memory out of 5000000
- 62185 multiletter control sequences out of 15000+600000
- 559760 words of font info for 66 fonts, out of 8000000 for 9000
+ 62216 multiletter control sequences out of 15000+600000
+ 561118 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,9n,98p,2367b,874s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on slides.dvi (15 pages, 75956 bytes).
+Output written on slides.dvi (15 pages, 191768 bytes).
